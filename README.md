@@ -8,7 +8,7 @@ Members:
 
 Background: 
 
-Formula 1 is the highest class of auto racing and the most thrilling.  With drive zooming around the track at speeds above 200mph.  Formula 1 is sanctioned by the FIA (Federation Internalionale de l’Automobile) and was started in 1950.  The data below is for Constructors who are the manufacturers of the cars being raced.    
+Formula 1 is the highest class of auto racing and the most thrilling. Formula 1 is sanctioned by the FIA (Federation Internalionale de l’Automobile) and was started in 1950. With drivers zooming around the track at speeds above 200mph.  The data below is for Constructors who are the manufacturers of the cars being raced.    
 
 Process: 
 
