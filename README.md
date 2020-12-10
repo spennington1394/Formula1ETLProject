@@ -5,11 +5,7 @@ Members:
 -Jaimie
 -Steven P. 
 
-![alt text](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.formula1.com%2Fen%2Flatest%2Farticle.f1-confirm-2020-azerbaijan-singapore-and-japanese-grands-prix-have-been.53mR0P305L9eUmDJXYOFoh.html&psig=AOvVaw1mhCpztFyxm_rVJakYO-pW&ust=1607656431804000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCJjcr4a5wu0CFQAAAAAdAAAAABAG)
-
-
-
-
+![alt text](http://www.formula1.com/content/dam/fom-website/manual/Misc/2020CalendarAnnouncemnt/GettyImages-1180733959.jpg)
 
 
 Background: 
@@ -25,6 +21,7 @@ Sources:
 
 Source: https://www.kaggle.com/cjgdev/formula-1-race-data-19502017?select=constructors.csv 
 Files names: 
--Constructor Results
+
+	-Constructor Results
 	-Constructor Standings
 	-Constructors
