@@ -1,1 +1,1 @@
-key = 'Password' 
+key = 'password' 
