@@ -22,8 +22,13 @@ Sources:
 Source: https://www.kaggle.com/cjgdev/formula-1-race-data-19502017?select=constructors.csv 
 Files names: 
 	-Races
+	
 	-Constructor Results
+	
 	-Constructor Standings
+	
 	-Constructors
+
+
 Presentation :
 	https://docs.google.com/presentation/d/1jLxB7sAr2oRuy52eunUcMoOhNrDreQ3tUAn99Jf4HSI/edit#slide=id.gb16784c331_0_103
